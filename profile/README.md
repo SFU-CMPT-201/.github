@@ -104,9 +104,34 @@ C Programming Language, 2nd Edition, Dennis Ritchie and Brian Kernighan, 1988
 
 ## VM Links and Instructions
 
-Below are the links for our VM. To download these, you need to first log in on Microsoft 365
+* Below are the links for our VM. To download these, you need to first log in on Microsoft 365
 (OneDrive, SharePoint, etc.) with your SFU credentials.
-
-[VirtualBox x86-64 VM Image]()
-
-[UTM Image for ARM-based Mac]()
+    * [VirtualBox x86-64 VM Image]()
+    * [UTM Image for ARM-based Mac]()
+* Once you download an image, prepare it to run it.
+    * For VirtualBox, you need to import the VM. Go to `Import` and select the `.ova` file that you
+      just downloaded. One you have finished importing it, you can remove the `.ova` file you
+      downloaded.
+    * For UTM, unzip the `.zip` file, move the whole `.utm` file/folder to a folder where you want
+      to keep the files related to CMPT 201. Double click the file/folder. It will appear on your
+      UTM VM list.
+* You can now run the VM. After it boots up, pay attention to the login message. It should give you
+  an IP address as well as the username and the password that you can use to log in.
+* At this point, make sure you have installed a good terminal emulator. For Windows, install
+  [Windows Terminal](https://apps.microsoft.com/store/detail/windows-terminal/9N0DX20HK701). For
+  Mac, install [iTerm2](https://iterm2.com/). For Linux, the default terminal is fine, at least for
+  GNOME. There are many other options such as [foot](https://codeberg.org/dnkl/foot),
+  [Alacritty](https://alacritty.org/), etc., but you need to be comfortable with editing
+  configuration files with these. You can use those if you are more adventurous.
+* You will spend a lot of time on the terminal in this course. Therefore, it is important to use a
+  terminal setting that is comfortable. Change the terminal setting as follows.
+    * Change the width to more than 100, e.g., 110.
+    * Change the height to a length that is sufficiently long.
+    * Change the color scheme to `solarized dark`. Windows Terminal, iTerm2, and GNOME Terminal
+      should support it out of the box. Google how to change the color scheme, if you are not sure.
+      For other terminal emulators, you need to install the theme separately.
+* Open the terminal, and enter `ssh cmpt201@[VM's IP address]`. Replace `[VM's IP address]` with the
+  IP address that you get from the VM window.
+* Use the password to log in on the terminal.
+* If you enter `ls`, you should see two files (`start_here.sh` and `units`).
+* Enter `./start_here.sh` and read through. It will show you what to do.
