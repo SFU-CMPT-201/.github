@@ -101,3 +101,13 @@ C Programming Language, 2nd Edition, Dennis Ritchie and Brian Kernighan, 1988
 * Any violations of academic integrity receive an F for the course.
 * We generally follow [the academic integrity policies from the
   university](http://www.sfu.ca/students/academicintegrity.html).
+
+## VM Links
+
+To download these, you need to first log in on Microsoft 365 (OneDrive, SharePoint, etc.) with your
+SFU credentials.
+
+[VirtualBox x86-64 VM Image](https://1sfu-my.sharepoint.com/:u:/g/personal/steveyko_sfu_ca/ETQF4pVSOpBFmPxFd8IYTeABH2Kf0Bi7K-E6D6w9f5lsBw?e=UDxjdq)
+
+[UTM Image for ARM-based
+Mac](https://1sfu-my.sharepoint.com/:f:/g/personal/steveyko_sfu_ca/EoD8FsGu84NHgFwNb7Hdys4BcCi_etmzk7ZfLyKIsPiL5A?e=3aelhQ)
