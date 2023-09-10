@@ -104,8 +104,13 @@ C Programming Language, 2nd Edition, Dennis Ritchie and Brian Kernighan, 1988
 
 ## VM Links and Instructions
 
+* For Windows, Linux, and Intel Macs, please install the latest [VMware
+  Player](https://www.vmware.com/ca/products/workstation-player.html) or
+  [Fusion](https://customerconnect.vmware.com/evalcenter?p=fusion-player-personal-13) on your
+  machine.
+* For ARM-based Macs, please install [UTM](https://getutm.app/).
 * Below are the links for our VM. To download these, you need to first log in on Microsoft 365
-(OneDrive, SharePoint, etc.) with your SFU credentials.
+  (OneDrive, SharePoint, etc.) with your SFU credentials.
     * [VMware x86-64 VM Image](https://shorturl.at/fHLO3)
     * [UTM Image for ARM-based Mac](https://shorturl.at/mvX04)
 * Once you download an image, prepare it to run it.
