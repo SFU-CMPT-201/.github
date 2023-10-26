@@ -58,11 +58,14 @@ TBA
 
 ## Reference Books
 
-Computer Systems: A Programmer's Perspective, 3rd Edition, Randal E. Bryant and David R. O'Hallaron,
-2015.
-
 The Linux Programming Interface: A Linux and UNIX System Programming Handbook, Michael Kerrisk,
 2010.
+
+[Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/), Remzi H.
+Arpaci-Dusseau and Andrea C. Arpaci-Dusseau
+
+Computer Systems: A Programmer's Perspective, 3rd Edition, Randal E. Bryant and David R. O'Hallaron,
+2015.
 
 Advanced Programming in the UNIX Environment, 3rd Edition, W. Stevens and Stephen Rago, 2013
 
