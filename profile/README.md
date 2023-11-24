@@ -56,13 +56,15 @@ Dhruv Kumar <dka119@sfu.ca>
 
 TBA
 
-## Reference Books
+## Recommended Textbooks
 
 The Linux Programming Interface: A Linux and UNIX System Programming Handbook, Michael Kerrisk,
 2010.
 
 [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/), Remzi H.
 Arpaci-Dusseau and Andrea C. Arpaci-Dusseau
+
+## Reference Books
 
 Computer Systems: A Programmer's Perspective, 3rd Edition, Randal E. Bryant and David R. O'Hallaron,
 2015.
