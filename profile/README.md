@@ -47,7 +47,7 @@ Tu & Th 12:30 PM - 2:20 PM, SWH 10041, Burnaby
 
 Steve Ko <<steveyko@sfu.ca>>
 
-## TA
+## TAs
 
 Kimia Khabiri <<kka156@sfu.ca>>
 
@@ -55,7 +55,7 @@ Parsa Hoseininejad <<sph6@sfu.ca>>
 
 ## Office Hours
 
-TBA
+Steve Ko: Tu & Th 11:00 AM
 
 ## Recommended Textbooks
 
