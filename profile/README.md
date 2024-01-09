@@ -45,11 +45,12 @@ Tu & Th 12:30 PM - 2:20 PM, SWH 10041, Burnaby
 
 ## Instructor
 
-Steve Ko <steveyko@sfu.ca>
+Steve Ko <<steveyko@sfu.ca>>
 
 ## TA
 
-TBA
+Kimia Khabiri <<kka156@sfu.ca>>
+Parsa Hoseininejad <<sph6@sfu.ca>>
 
 ## Office Hours
 
