@@ -150,3 +150,6 @@ C Programming Language, 2nd Edition, Dennis Ritchie and Brian Kernighan, 1988
 * Use the password from the VM window to log in on the terminal.
 * If you enter `ls`, you should see two files (`start_here.sh` and `units`).
 * Enter `./start_here.sh` and read through. It will show you what to do.
+* When you want to stop using the VM, make sure that you properly shut it down by entering
+  `sudo poweroff`. **Do not** just close the VM window since it will corrupt the VM.
+  (You can also use `sudo reboot` to reboot the VM.)
