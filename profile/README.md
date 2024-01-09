@@ -2,15 +2,14 @@
 
 The School of Computing Science is introducing a new course, CMPT 201 Systems Programming, that will
 satisfy the curriculum requirements currently met by CMPT 300 Operating Systems for both CS and SoSy
-students. Before officially offering CMPT 201, it is being made available in Fall 2023 as a Special
-Topics course for interested students, CMPT 218. Any students who take this course will be able to
+students. In other words, any students who take this course will be able to
 use it toward satisfying CMPT 300 requirements.
 
 By taking this course, students will learn:
 
-* User-level services and abstractions provided by operating systems
+* User-level services and abstractions provided by operating systems, and
 * How to write low-level programs that utilize those services and abstractions correctly,
-  efficiently, and reliably, using Linux
+  efficiently, and reliably, using Linux.
 
 Students will be equipped with important practical and theoretical background for upper-level
 courses. Topics covered in this course include (but not limited to):
@@ -42,7 +41,7 @@ Students are expected to achieve proficiency in the following areas:
 
 ## Course Schedule and Location
 
-Tu & Fr 10:30 AM - 12:20 PM, SWH 10041, Burnaby
+Tu & Th 12:30 PM - 2:20 PM, SWH 10041, Burnaby
 
 ## Instructor
 
@@ -50,7 +49,7 @@ Steve Ko <steveyko@sfu.ca>
 
 ## TA
 
-Dhruv Kumar <dka119@sfu.ca>
+TBA
 
 ## Office Hours
 
@@ -85,9 +84,10 @@ C Programming Language, 2nd Edition, Dennis Ritchie and Brian Kernighan, 1988
 
 * Midterm: 15%
 * Final: 15%
-* Programming assignments: 70%
-    * 10 short assignments: 3% each
+* Programming assignments: 64%
+    * 8 short assignments: 3% each
     * 4 long assignment: 10% each
+* In-class activities: 6%
 
 ## Grading Policies
 
