@@ -84,10 +84,10 @@ C Programming Language, 2nd Edition, Dennis Ritchie and Brian Kernighan, 1988
 
 * Midterm: 15%
 * Final: 15%
-* Programming assignments: 64%
-    * 8 short assignments: 3% each
-    * 4 long assignment: 10% each
-* In-class activities: 6%
+* Programming assignments: 66%
+    * 8 short assignments: 2% each
+    * 5 long assignment: 10% each
+* In-class activities: 4%
 
 ## Grading Policies
 
