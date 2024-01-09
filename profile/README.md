@@ -50,6 +50,7 @@ Steve Ko <<steveyko@sfu.ca>>
 ## TA
 
 Kimia Khabiri <<kka156@sfu.ca>>
+
 Parsa Hoseininejad <<sph6@sfu.ca>>
 
 ## Office Hours
