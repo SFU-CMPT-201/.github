@@ -120,8 +120,8 @@ C Programming Language, 2nd Edition, Dennis Ritchie and Brian Kernighan, 1988
 * For ARM-based Macs, please install [UTM](https://getutm.app/).
 * Below are the links for our VM. To download these, you need to first log in on Microsoft 365
   (OneDrive, SharePoint, etc.) with your SFU credentials.
-    * [VMware x86-64 VM Image](https://shorturl.at/dlpP0)
-    * [UTM Image for ARM-based Mac](https://shorturl.at/cCIT9)
+    * [VMware x86-64 VM Image](https://shorturl.at/yzE09)
+    * [UTM Image for ARM-based Mac](https://shorturl.at/hipqS)
 * Once you download an image, prepare it to run it.
     * Unzip the file.
     * Move the unzipped folder/file to a location where you want to keep it.
