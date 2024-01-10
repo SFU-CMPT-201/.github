@@ -113,6 +113,9 @@ C Programming Language, 2nd Edition, Dennis Ritchie and Brian Kernighan, 1988
 
 ## VM Links and Instructions
 
+* This will take some time, e.g., a few hours, and it is necessary for the first assignment, which
+  will take another few hours. So make sure you start this right away. Downloading and running the
+  VM is not the end of the setup process. There are more things to do after you log in.
 * For Windows, Linux, and Intel Macs, please install the latest [VMware
   Player](https://www.vmware.com/ca/products/workstation-player.html) or
   [Fusion](https://customerconnect.vmware.com/evalcenter?p=fusion-player-personal-13) on your
