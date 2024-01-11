@@ -55,7 +55,7 @@ Parsa Hoseininejad <<sph6@sfu.ca>>
 
 ## Office Hours
 
-Steve Ko: Tu & Th 11:00 AM
+Steve Ko (TASC1 8019): Tu & Th 11:00 AM
 
 ## Recommended Textbooks
 
