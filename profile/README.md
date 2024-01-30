@@ -2,8 +2,8 @@
 
 The School of Computing Science is introducing a new course, CMPT 201 Systems Programming, that will
 satisfy the curriculum requirements currently met by CMPT 300 Operating Systems for both CS and SoSy
-students. In other words, any students who take this course will be able to
-use it toward satisfying CMPT 300 requirements.
+students. In other words, any students who take this course will be able to use it toward satisfying
+CMPT 300 requirements.
 
 By taking this course, students will learn:
 
@@ -11,30 +11,34 @@ By taking this course, students will learn:
 * How to write low-level programs that utilize those services and abstractions correctly,
   efficiently, and reliably, using Linux.
 
-Students will be equipped with important practical and theoretical background for upper-level
-courses. Topics covered in this course include (but not limited to):
-
-* Memory management
-* Concurrency
-* Storage and file system abstractions
-* Communication abstractions such as IPC, sockets, and RPC
-* Basics of OS security and cryptographic functions.
+Although this course is known to be a challenging course, it is not designed for an advanced
+programmer. The training that this course aim to provide is to get students out of the beginning
+stage and move them to an early intermediate stage. Students have to make that jump at some point in
+their college career. This course forces students to make that jump, so they can advance much
+further with upper-level courses.
 
 Prerequisites are:
 
 * (CMPT 125 or CMPT 135) and MACM 101, all with a minimum grade of C-
-* Proficiency in C programming (e.g., writing CMPT 125- or CMPT 135-level programs in C without
-  getting help)
+    * This course assumes that students thoroughly understand the intro programming materials and
+      they do not struggle with them *at all*.
+* Proficiency in C programming
+    * This course uses C but does not teach C.
+    * This course assumes that students thoroughly know C. This includes, but not limited to, the
+      syntax of C, C strings and how to manipulate them, arrays and pointers, the use of `malloc()`
+      and `free()`, etc.
+    * Knowing C++ is better but not enough. C is still different from C++.
 * Experience in using the command-line interface on Linux
+    * We do not expect students to have proficiency but *some* experience.
 
-Students are expected to achieve proficiency in the following areas:
+Upon completion of this course, students are expected to achieve proficiency in the following areas:
 
 * Interacting with, and programming in, a Linux environment using the command-line interface.
 * Utilizing programming tools such as build systems and debuggers.
-* Manipulating and managing data in memory correctly.
+* Programming with processes and threads.
 * Understanding concurrency concepts such as semaphores, locks, critical sections, deadlocks, common
   concurrency patterns, etc.
-* Programming with processes and threads.
+* Manipulating and managing data in memory correctly.
 * Understanding file system abstractions and programming with them.
 * Understanding communication abstractions such as IPC, sockets, and RPC and programming with them.
 * Understanding cryptographic functions and programming with them.
@@ -62,8 +66,23 @@ Steve Ko (TASC1 8019): Tu & Th 11:00 AM - 12:15 PM
 The Linux Programming Interface: A Linux and UNIX System Programming Handbook, Michael Kerrisk,
 2010.
 
+* This book is arguably *the* best book on systems programming using Linux.
+* If someone is looking to purchase *one* book on systems programming, this book is that book.
+* A lot of the course materials are based on this book.
+* This book is *almost* required. There are two reasons why it is almost.
+    * The book covers much more than this course covers.
+    * The book is not inexpensive.
+* If there is a student struggling with the materials of this course, it is recommended to purchase
+  this book and read along.
+
 [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/), Remzi H.
 Arpaci-Dusseau and Andrea C. Arpaci-Dusseau
+
+* This is a free online book on operating systems.
+* This course teaches some of the concepts described in the book. However, the book goes much more
+  in detail than what this course teaches, hence it is not a required book.
+* Nevertheless, [the course lecture notes](https://github.com/SFU-CMPT-201/lecture-notes) refer to
+  some chapters of the book and students are expected to read those chapters.
 
 ## Reference Books
 
@@ -113,10 +132,10 @@ C Programming Language, 2nd Edition, Dennis Ritchie and Brian Kernighan, 1988
 
 ## VM Links and Instructions
 
-* Setting up the course VM will take some time, e.g., a few hours, and it is necessary for the first assignment, which
-  will take another few hours. So make sure you start this right away. Downloading and running the
-  VM (as described below) is not the end of the setup process. There are more things to do after
-  you log in.
+* Setting up the course VM will take some time, e.g., a few hours, and it is necessary for the first
+  assignment, which will take another few hours. So make sure you start this right away. Downloading
+  and running the VM (as described below) is not the end of the setup process. There are more things
+  to do after you log in.
 * For Windows, Linux, and Intel Macs, please install the latest [VMware
   Player](https://www.vmware.com/ca/products/workstation-player.html) or
   [Fusion](https://customerconnect.vmware.com/evalcenter?p=fusion-player-personal-13) on your
