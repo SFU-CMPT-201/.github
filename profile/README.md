@@ -176,3 +176,51 @@ C Programming Language, 2nd Edition, Dennis Ritchie and Brian Kernighan, 1988
 * When you want to stop using the VM, make sure that you properly shut it down by entering
   `sudo poweroff`. **Do not** just close the VM window since it will corrupt the VM.
   (You can also use `sudo reboot` to reboot the VM.)
+
+## Assignments
+
+There are two types of assignments in this course.
+
+### Short Assignments
+
+The first type is short assignments.
+
+* In the first few weeks of the course, students are expected to finish *two* short assignments per
+  week.
+* Each short assignment is in the style of a tutorial and takes about 2-3 hours to complete.
+* These assignments are designed to teach students basic tools and concepts that students use for
+  in-class activities and long assignments.
+* Unlike long assignments, short assignments are designed to be straightforward.
+
+Here are the current short assignments:
+
+* [A0: Basics of the Command-Line Interface](https://github.com/SFU-CMPT-201/a0)
+* [A1: Neovim](https://github.com/SFU-CMPT-201/a1)
+* [A2: Bash Scripting](https://github.com/SFU-CMPT-201/a2)
+* [A3: Basics of Compilation](https://github.com/SFU-CMPT-201/a3)
+* [A4: Make and CMake](https://github.com/SFU-CMPT-201/a4)
+* [A5: Debugging Tools](https://github.com/SFU-CMPT-201/a5)
+* [A6: Memory Layout](https://github.com/SFU-CMPT-201/a6)
+* [A7: More on Memory Layout, Data Types, and Alignment](https://github.com/SFU-CMPT-201/a7)
+
+
+### Long Assignments
+
+The second type is long assignments.
+
+* Long assignments are exponentially more challenging than short ones, specifically designed to push
+  students to test and enhance their programming skills.
+* The expectation is that each assignment will take 15-20 hours to complete. However, students
+  sometimes report spending 30-40 hours on each long assignment. This discrepancy is likely due to
+  varying levels of preparedness with the prerequisites.
+* In other words, the level of challenge posed by the assignments can vary significantly, depending
+  on the student's stage of proficiency in general programming and their understanding of the
+  prerequisite materials (e.g., beginner-beginner, intermediate-beginner, advanced-beginner).
+* Long assignments typically do not provide a detailed step-by-step guide. Students are expected to
+  *figure things out* independently. The course is designed to train and challenge students,
+  fostering self-reliance and problem-solving skills.
+
+Here are two of the current long assignments. (More will be released later.)
+
+* [A8: Simple Shell](https://github.com/SFU-CMPT-201/a8)
+* [A9: Memory Management](https://github.com/SFU-CMPT-201/a9)
