@@ -224,3 +224,10 @@ Here are two of the current long assignments. (More will be released later.)
 
 * [A8: Simple Shell](https://github.com/SFU-CMPT-201/a8)
 * [A9: Memory Management](https://github.com/SFU-CMPT-201/a9)
+
+## Exam Samples
+
+Exams from Fall 2023 are available for reference.
+
+* [Midterm](res/midterm.pdf)
+* [Final](res/final.pdf)
