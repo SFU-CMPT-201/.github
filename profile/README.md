@@ -120,7 +120,7 @@ notes. The schedule generally looks as follows.
 * Week 2 - Week 3: [Fork, Exec, Wait, and
   errno](https://github.com/SFU-CMPT-201/lecture-notes/blob/main/02-fork-exec-wait.md) &
   [Signals](https://github.com/SFU-CMPT-201/lecture-notes/blob/main/03-signals.md)
-* Week 4: [Scheduling
+* Week 4 - Week 5: [Scheduling
   Algorithms](https://github.com/SFU-CMPT-201/lecture-notes/blob/main/04-scheduling.md) & [Memory
   Management](https://github.com/SFU-CMPT-201/lecture-notes/blob/main/05-memory-management.md)
 * Week 5 - Week 6: [Virtual
@@ -184,6 +184,13 @@ Here are two of the current long assignments. (More will be released later.)
 
 * [A8: Simple Shell](https://github.com/SFU-CMPT-201/a8)
 * [A9: Memory Management](https://github.com/SFU-CMPT-201/a9)
+
+## Exam Samples
+
+Exams from Fall 2023 are available for reference.
+
+* [Midterm](res/midterm.pdf)
+* [Final](res/final.pdf)
 
 ## Grading Policies
 
@@ -251,10 +258,3 @@ Here are two of the current long assignments. (More will be released later.)
 * When you want to stop using the VM, make sure that you properly shut it down by entering
   `sudo poweroff`. **Do not** just close the VM window since it will corrupt the VM.
   (You can also use `sudo reboot` to reboot the VM.)
-
-## Exam Samples
-
-Exams from Fall 2023 are available for reference.
-
-* [Midterm](res/midterm.pdf)
-* [Final](res/final.pdf)
