@@ -231,3 +231,31 @@ Exams from Fall 2023 are available for reference.
 
 * [Midterm](res/midterm.pdf)
 * [Final](res/final.pdf)
+
+## Lecture Notes and Schedule
+
+The [Lecture Notes repo](https://github.com/SFU-CMPT-201/lecture-notes) contains the current lecture
+notes. The schedule generally looks as follows.
+
+* Week 1 - Week 2: [Tour of Computer
+  Systems](https://github.com/SFU-CMPT-201/lecture-notes/blob/main/01-tour.md)
+* Week 2 - Week 3: [Fork, Exec, Wait, and
+  errno](https://github.com/SFU-CMPT-201/lecture-notes/blob/main/02-fork-exec-wait.md) &
+  [Signals](https://github.com/SFU-CMPT-201/lecture-notes/blob/main/03-signals.md)
+* Week 4: [Scheduling
+  Algorithms](https://github.com/SFU-CMPT-201/lecture-notes/blob/main/04-scheduling.md) & [Memory
+  Management](https://github.com/SFU-CMPT-201/lecture-notes/blob/main/05-memory-management.md)
+* Week 5 - Week 6: [Virtual
+  Memory](https://github.com/SFU-CMPT-201/lecture-notes/blob/main/06-virtual-memory.md)
+* Week 6: Midterm
+* Week 7 - Week 8: [Thread](https://github.com/SFU-CMPT-201/lecture-notes/blob/main/07-threads.md)
+  and
+  [Synchronization](https://github.com/SFU-CMPT-201/lecture-notes/blob/main/08-synchronization.md)
+* Week 9 - Week 10: [File
+  I/O](https://github.com/SFU-CMPT-201/lecture-notes/blob/main/09-file-io.md)
+* Week 10 - Week 11: [Network
+  Programming](https://github.com/SFU-CMPT-201/lecture-notes/blob/main/10-network-programming.md)
+* Week 12: [IPC](https://github.com/SFU-CMPT-201/lecture-notes/blob/main/11-ipc.md)
+* Week 13: [Basic
+  Cryptography](https://github.com/SFU-CMPT-201/lecture-notes/blob/main/12-basic-crypto.md)
+* Week 14: Final
