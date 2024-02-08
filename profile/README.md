@@ -12,7 +12,7 @@ By taking this course, students will learn:
   efficiently, and reliably, using Linux.
 
 Although this course is known to be a challenging course, it is not designed for an advanced
-programmer. The training that this course aim to provide is to get students out of the beginning
+programmer. The training that this course aims to provide is to get students out of the beginning
 stage and move them to an early intermediate stage. Students have to make that jump at some point in
 their college career. This course forces students to make that jump, so they can advance much
 further with upper-level courses.
