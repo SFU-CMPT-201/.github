@@ -21,7 +21,9 @@ Prerequisites are:
 
 * (CMPT 125 or CMPT 135) and MACM 101, all with a minimum grade of C-
     * This course assumes that students thoroughly understand the intro programming materials and
-      they do not struggle with them *at all*.
+      they do not struggle with them *at all*. This includes, but not limited to, the basic
+      programming constructs (e.g., loops, conditionals, functions/methods/modules, etc.) as well
+      as basic data structures (e.g., linked lists, hashing and hash tables, etc.).
 * Proficiency in C programming
     * This course uses C but does not teach C.
     * This course assumes that students thoroughly know C. This includes, but not limited to, the
@@ -126,7 +128,7 @@ notes. The schedule generally looks as follows.
 * Week 5 - Week 6: [Virtual
   Memory](https://github.com/SFU-CMPT-201/lecture-notes/blob/main/06-virtual-memory.md)
 * Week 6: Midterm
-* Week 7 - Week 8: [Thread](https://github.com/SFU-CMPT-201/lecture-notes/blob/main/07-threads.md)
+* Week 7 - Week 8: [Threads](https://github.com/SFU-CMPT-201/lecture-notes/blob/main/07-threads.md)
   and
   [Synchronization](https://github.com/SFU-CMPT-201/lecture-notes/blob/main/08-synchronization.md)
 * Week 9 - Week 10: [File
