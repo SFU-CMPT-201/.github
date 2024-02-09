@@ -21,7 +21,7 @@ Prerequisites are:
 
 * (CMPT 125 or CMPT 135) and MACM 101, all with a minimum grade of C-
     * This course assumes that students thoroughly understand the intro programming materials and
-      they do not struggle with them *at all*. This includes, but not limited to, the basic
+      they do not struggle with them *at all*. This includes, but not limited to, basic
       programming constructs (e.g., loops, conditionals, functions/methods/modules, etc.) as well
       as basic data structures (e.g., linked lists, hashing and hash tables, etc.).
 * Proficiency in C programming
