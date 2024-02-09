@@ -27,9 +27,12 @@ Prerequisites are:
 * Proficiency in C programming
     * This course uses C but does not teach C.
     * This course assumes that students thoroughly know C. This includes, but not limited to, the
-      syntax of C, C strings and how to manipulate them, arrays and pointers, the use of `malloc()`
-      and `free()`, etc.
+      syntax of C, C `struct`s, C strings and how to manipulate them, arrays and pointers, the use
+      of `malloc()` and `free()`, etc.
     * Knowing C++ is better but not enough. C is still different from C++.
+    * A very basic test is asking yourself, "Can I write a doubly-linked list in C without
+      getting any help (with all the features, creating/appending/deleting a node and traversing
+      the list)?"
 * Experience in using the command-line interface on Linux
     * We do not expect students to have proficiency but *some* experience.
 
