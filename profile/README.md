@@ -173,7 +173,7 @@ Here are the current short assignments:
 
 The second type is long assignments.
 
-* Long assignments are exponentially more challenging than short ones, specifically designed to push
+* Long assignments are *exponentially* more challenging than short ones, specifically designed to push
   students to test and enhance their programming skills.
 * The expectation is that each assignment will take 15-20 hours to complete. However, students
   sometimes report spending 30-40 hours on each long assignment. This discrepancy is likely due to
