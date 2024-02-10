@@ -75,7 +75,7 @@ The Linux Programming Interface: A Linux and UNIX System Programming Handbook, M
 * If someone is looking to purchase *one* book on systems programming, this book is that book.
 * A lot of the course materials are based on this book.
 * This book is *almost* required. There are two reasons why it is almost.
-    * The book covers much more than this course covers.
+    * The book covers much more than what this course covers.
     * The book is not inexpensive.
 * If there is a student struggling with the materials of this course, it is recommended to purchase
   this book and read along.
