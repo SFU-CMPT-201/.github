@@ -21,18 +21,17 @@ Prerequisites are:
 
 * (CMPT 125 or CMPT 135) and MACM 101, all with a minimum grade of C-
     * This course assumes that students thoroughly understand the intro programming materials and
-      they do not struggle with them *at all*. This includes, but not limited to, basic
-      programming constructs (e.g., loops, conditionals, functions/methods/modules, etc.) as well
-      as basic data structures (e.g., linked lists, hashing and hash tables, etc.).
+      they do not struggle with them *at all*. This includes, but not limited to, basic programming
+      constructs (e.g., loops, conditionals, functions/methods/modules, etc.) as well as basic data
+      structures (e.g., linked lists, hashing and hash tables, etc.).
 * Proficiency in C programming
     * This course uses C but does not teach C.
     * This course assumes that students thoroughly know C. This includes, but not limited to, the
       syntax of C, C `struct`s, C strings and how to manipulate them, arrays and pointers, the use
       of `malloc()` and `free()`, etc.
     * Knowing C++ is better but not enough. C is still different from C++.
-    * A very basic test is asking yourself, "Can I write a doubly-linked list in C without
-      getting any help (with all the features, creating/appending/deleting a node and traversing
-      the list)?"
+    * A very basic test is asking yourself, "Can I write a doubly-linked list in C without getting
+      any help (with all the features, creating/appending/deleting a node and traversing the list)?"
 * Experience in using the command-line interface on Linux
     * We do not expect students to have proficiency but *some* experience.
 
@@ -173,8 +172,8 @@ Here are the current short assignments:
 
 The second type is long assignments.
 
-* Long assignments are *exponentially* more challenging than short ones, specifically designed to push
-  students to test and enhance their programming skills.
+* Long assignments are *exponentially* more challenging than short ones, specifically designed to
+  push students to test and enhance their programming skills.
 * The expectation is that each assignment will take 15-20 hours to complete. However, students
   sometimes report spending 30-40 hours on each long assignment. This discrepancy is likely due to
   varying levels of preparedness with the prerequisites.
@@ -185,10 +184,11 @@ The second type is long assignments.
   *figure things out* independently. The course is designed to train and challenge students,
   fostering self-reliance and problem-solving skills.
 
-Here are two of the current long assignments. (More will be released later.)
+Here are three of the current long assignments. (More will be released later.)
 
 * [A8: Simple Shell](https://github.com/SFU-CMPT-201/a8)
 * [A9: Memory Management](https://github.com/SFU-CMPT-201/a9)
+* [A10:Simple MapReduce](https://github.com/SFU-CMPT-201/a10)
 
 ## Exam Samples
 
@@ -260,6 +260,6 @@ Exams from Fall 2023 are available for reference.
 * Use the password from the VM window to log in on the terminal.
 * If you enter `ls`, you should see two files (`start_here.sh` and `units`).
 * Enter `./start_here.sh` and read through. It will show you what to do.
-* When you want to stop using the VM, make sure that you properly shut it down by entering
-  `sudo poweroff`. **Do not** just close the VM window since it will corrupt the VM.
-  (You can also use `sudo reboot` to reboot the VM.)
+* When you want to stop using the VM, make sure that you properly shut it down by entering `sudo
+  poweroff`. **Do not** just close the VM window since it will corrupt the VM. (You can also use
+  `sudo reboot` to reboot the VM.)
