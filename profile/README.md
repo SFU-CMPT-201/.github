@@ -189,7 +189,7 @@ Here are three of the current long assignments. (More will be released later.)
 * [A8: Simple Shell](https://github.com/SFU-CMPT-201/a8)
 * [A9: Memory Management](https://github.com/SFU-CMPT-201/a9)
 * [A10: Simple MapReduce](https://github.com/SFU-CMPT-201/a10)
-* [A11: A Simple Group Chat Server with Fuzzing Clients](https://github.com/SFU-CMPT-201/a11)
+* [A11: A Simple Group Chat Server with Fuzzing Clients](https://github.com/SFU-CMPT-201/a11-public)
 
 ## Exam Samples
 
