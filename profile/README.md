@@ -121,8 +121,8 @@ notes. The schedule generally looks as follows.
 
 * Week 1 - Week 2: [Tour of Computer
   Systems](https://github.com/SFU-CMPT-201/lecture-notes/blob/main/01-tour.md)
-* Week 2 - Week 3: [Fork, Exec, Wait, and
-  errno](https://github.com/SFU-CMPT-201/lecture-notes/blob/main/02-fork-exec-wait.md) &
+* Week 2 - Week 3: [`fork()`, `exec()`, `wait()`, and
+  `errno`](https://github.com/SFU-CMPT-201/lecture-notes/blob/main/02-fork-exec-wait.md) &
   [Signals](https://github.com/SFU-CMPT-201/lecture-notes/blob/main/03-signals.md)
 * Week 4 - Week 5: [Scheduling
   Algorithms](https://github.com/SFU-CMPT-201/lecture-notes/blob/main/04-scheduling.md) & [Memory
