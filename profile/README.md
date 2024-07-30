@@ -49,7 +49,17 @@ Upon completion of this course, students are expected to achieve proficiency in 
 
 ## Course Schedule and Location
 
-Tu & Th 12:30 PM - 2:20 PM, SWH 10041, Burnaby
+### Lectures
+
+* Tu 12:30PM - 2:20PM (K9500)
+* Th 12:30PM - 2:20PM (Images Theatre in RC Brown Hall)
+
+### Labs
+
+* Th 2:30PM - 3:20PM (ASB9838)
+* Th 2:30PM - 3:20PM (ASB9838)
+* Th 3:30PM - 4:20PM (ASB9838)
+* Th 3:30PM - 4:20PM (ASB9838)
 
 ## Instructor
 
@@ -57,13 +67,18 @@ Steve Ko <<steveyko@sfu.ca>>
 
 ## TAs
 
-Kimia Khabiri <<kka156@sfu.ca>>
-
-Parsa Hoseininejad <<sph6@sfu.ca>>
+* Kimia Khabiri <<kimia_khabiri@sfu.ca>>
+* Parsa Hoseininejad <<parsa_hosseininejad@sfu.ca>>
+* Mohammad Omidvar <<m_omidvart@sfu.ca>>
+* Shishir Gopinath <<shishir_gopinath@sfu.ca>>
 
 ## Office Hours
 
-Steve Ko (TASC1 8019): Tu & Th 11:00 AM - 12:15 PM
+* Steve Ko (TASC1 8019): TBA
+* Kimia Khabiri: TBA
+* Parsa Hoseininejad: TBA
+* Mohammad Omidvar: TBA
+* Shishir Gopinath: TBA
 
 ## Recommended Textbooks
 
