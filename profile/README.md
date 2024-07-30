@@ -157,7 +157,9 @@ The first type is short assignments.
   in-class activities and long assignments.
 * Unlike long assignments, short assignments are designed to be straightforward.
 
-Here are the current short assignments:
+Here are the short assignments. Please do not use these assignment as-is. Each offering of CMPT 201
+has its own private repos for these assignments and instructions may vary slightly. We provide
+these only for your reference.
 
 * [A0: Basics of the Command-Line Interface](https://github.com/SFU-CMPT-201/a0)
 * [A1: Neovim](https://github.com/SFU-CMPT-201/a1)
@@ -184,13 +186,15 @@ The second type is long assignments.
   *figure things out* independently. The course is designed to train and challenge students,
   fostering self-reliance and problem-solving skills.
 
-Here are the current long assignments.
+Below are the long assignments. Please do not use these assignments as-is. Each offering of CMPT
+201 has its own private repos for these assignments and instructions may vary slightly. We provide
+these only for your reference.
 
 * [A8: Simple Shell](https://github.com/SFU-CMPT-201/a8)
 * [A9: Memory Management](https://github.com/SFU-CMPT-201/a9)
 * [A10: Simple MapReduce](https://github.com/SFU-CMPT-201/a10)
-* [A11: A Simple Group Chat Server with Fuzzing Clients](https://github.com/SFU-CMPT-201/a11-public)
-* [A12: Simple Blockchain](https://github.com/SFU-CMPT-201/a12-public)
+* [A11: A Simple Group Chat Server with Fuzzing Clients](https://github.com/SFU-CMPT-201/a11)
+* [A12: Simple Blockchain](https://github.com/SFU-CMPT-201/a12)
 
 ## Exam Samples
 
