@@ -63,7 +63,7 @@ Upon completion of this course, students are expected to achieve proficiency in 
 
 ## Instructor
 
-Steve Ko <<steveyko@sfu.ca>>
+* Steve Ko <<steveyko@sfu.ca>>
 
 ## TAs
 
