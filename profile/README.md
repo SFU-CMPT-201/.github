@@ -52,7 +52,7 @@ Upon completion of this course, students are expected to achieve proficiency in 
 ### Lectures
 
 * Tu 12:30PM - 2:20PM (K9500)
-* Th 12:30PM - 2:20PM (Images Theatre in RC Brown Hall)
+* Th 12:30PM - 2:20PM (Images Theatre in RCB Hall)
 
 ### Labs
 
