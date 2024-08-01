@@ -282,5 +282,5 @@ Exams from Fall 2023 are available for reference.
 * If you enter `ls`, you should see two files (`start_here.sh` and `units`).
 * Enter `./start_here.sh` and read through. It will show you what to do.
 * When you want to stop using the VM, make sure that you properly shut it down by entering `sudo
-  poweroff`. **Do not** just close the VM window since it will corrupt the VM. (You can also use
-  `sudo reboot` to reboot the VM.)
+  poweroff`. **Do not** just close the VM window since it may corrupt the VM. As a side note, you
+  can also use `sudo reboot` to reboot the VM.
