@@ -251,8 +251,8 @@ Exams from Fall 2023 are available for reference.
 * For ARM-based Macs, please install [UTM](https://getutm.app/).
 * Below are the links for our VM. To download these, you need to first log in on Microsoft 365
   (OneDrive, SharePoint, etc.) with your SFU credentials.
-    * [VMware x86-64 VM Image](https://shorturl.at/dyCK2)
-    * [UTM Image for ARM-based Mac](https://shorturl.at/kUX06)
+    * [VMware x86-64 VM Image](https://1sfu-my.sharepoint.com/:u:/g/personal/steveyko_sfu_ca/EYTPTjbNBFNEvcI9J56Qn3EBgoPW4mBTur4PKpCXdq2d4Q?e=rvZqnu)
+    * [UTM Image for ARM-based Mac](https://1sfu-my.sharepoint.com/:u:/g/personal/steveyko_sfu_ca/EeguaYYRzu1PsDRC_NyHhoIB7A_MjwftMKdLTNvk2A1wDw?e=z1PtQu)
 * Once you download an image, prepare it to run it.
     * Unzip the file.
     * Move the unzipped folder/file to a location where you want to keep it.
