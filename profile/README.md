@@ -238,34 +238,20 @@ Exams from Fall 2023 are available for reference.
 * We generally follow [the academic integrity policies from the
   university](http://www.sfu.ca/students/academicintegrity.html).
 
-## VM Links and Instructions
+## Docker Container Setup
 
-* Setting up the course VM will take some time, e.g., a few hours, and it is necessary for the first
-  assignment, which will take another few hours. So make sure you start this right away. Downloading
-  and running the VM (as described below) is not the end of the setup process. There are more things
-  to do after you log in.
-* For Windows, Linux, and Intel Macs, please install the latest [VMware
-  Player](https://www.vmware.com/ca/products/workstation-player.html) or
-  [Fusion](https://customerconnect.vmware.com/evalcenter?p=fusion-player-personal-13) on your
-  machine.
-* For ARM-based Macs, please install [UTM](https://getutm.app/).
-* Below are the links for our VM. To download these, you need to first log in on Microsoft 365
-  (OneDrive, SharePoint, etc.) with your SFU credentials.
-    * [VMware x86-64 VM Image](https://1sfu-my.sharepoint.com/:u:/g/personal/steveyko_sfu_ca/EYTPTjbNBFNEvcI9J56Qn3EBgoPW4mBTur4PKpCXdq2d4Q?e=rvZqnu)
-    * [UTM Image for ARM-based Mac](https://1sfu-my.sharepoint.com/:u:/g/personal/steveyko_sfu_ca/EeguaYYRzu1PsDRC_NyHhoIB7A_MjwftMKdLTNvk2A1wDw?e=z1PtQu)
-* Once you download an image, prepare it to run it.
-    * Unzip the file.
-    * Move the unzipped folder/file to a location where you want to keep it.
-    * For VMware, you can either double click the `.vmx` file (inside the unzipped folder) or use
-      `Open a Virtual Machine`.
-    * For UTM, you can double click the unzipped `.utm` package. It will appear in your UTM VM list.
-* You can now run the VM. After it boots up, pay attention to the login message. It should give you
-  an IP address as well as the username and the password that you can use to log in.
-* At this point, make sure you have installed a good terminal emulator. For Windows, install
-  [Windows Terminal](https://apps.microsoft.com/store/detail/windows-terminal/9N0DX20HK701). For
-  Mac, install [iTerm2](https://iterm2.com/). Do not use the Terminal app since it's not going to
-  display certain things correctly. For Linux, the default terminal is fine, at least for GNOME. We
-  have not tested the default terminal for KDE. There are many other options such as
+* Setting up the course container will take some time, e.g., a few hours, and it is necessary for
+  the first assignment, which will take another few hours. So make sure you start this right away.
+  Downloading and running the container (as described below) is not the end of the setup process.
+  There are more things to do after you log in.
+* First, install [Docker](https://docs.docker.com/desktop/). Choose the correct version for your
+  platform. Once you install it, start it. You can run it in the background as you don't need the
+  GUI.
+* Next, make sure you have a good terminal emulator installed. For Windows, install [Windows
+  Terminal](https://apps.microsoft.com/store/detail/windows-terminal/9N0DX20HK701). For Mac, install
+  [iTerm2](https://iterm2.com/). Do not use the default Terminal app since it's not going to display
+  certain things correctly. For Linux, the default terminal is fine at least for GNOME. We have not
+  tested the default terminal for KDE. There are many other options such as
   [foot](https://codeberg.org/dnkl/foot), [Alacritty](https://alacritty.org/), etc., but you need to
   be comfortable with editing configuration files with these. You can use those if you know what
   you're doing or if you are more adventurous.
@@ -274,13 +260,16 @@ Exams from Fall 2023 are available for reference.
     * Change the width to more than 100, e.g., 110.
     * Change the height to a length that is sufficiently long.
     * Change the color scheme to `solarized dark`. Windows Terminal, iTerm2, and GNOME Terminal
-      should support it out of the box. Google how to change the color scheme, if you are not sure.
-      For other terminal emulators, you need to install the theme separately.
-* Open the terminal, and enter `ssh cmpt201@[VM's IP address]`. Replace `[VM's IP address]` with the
-  IP address that you get from the VM window.
-* Use the password from the VM window to log in on the terminal.
+      should support it out of the box. Google how to change the color scheme if you are not sure.
+      For other terminal emulators, it's likely that you need to install the theme separately.
+* Open the terminal and enter the following commands.
+    * `docker create -it --name cmpt201 ghcr.io/sfu-cmpt-201/base`
+        * This command downloads our container image (`ghcr.io/sfu-cmpt-201/base`) and creates an
+          interactive (`-it`) container named `cmpt201`.
+    * `docker start -ai cmpt201`
+        * This command starts the container interactively (`-ai`) and let you enter the container.
+* At this point, you should see a greeting message and a command-line prompt (`~❯`).
 * If you enter `ls`, you should see two files (`start_here.sh` and `units`).
 * Enter `./start_here.sh` and read through. It will show you what to do.
-* When you want to stop using the VM, make sure that you properly shut it down by entering `sudo
-  poweroff`. **Do not** just close the VM window since it may corrupt the VM. As a side note, you
-  can also use `sudo reboot` to reboot the VM.
+* When you want to stop using the container, enter `exit`.
+* When you want to use the container again, enter the start command (`docker start -ai cmpt201`).
