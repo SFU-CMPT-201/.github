@@ -240,7 +240,8 @@ Exams from Fall 2023 are available for reference.
 
 ## Docker Container Setup
 
-* Setting up the course container will take some time, e.g., a few hours, and it is necessary for
+* You will use a Docker container for everything in this course.
+* Setting up the Docker container will take some time, e.g., a few hours, and it is necessary for
   the first assignment, which will take another few hours. So make sure you start this right away.
   Downloading and running the container (as described below) is not the end of the setup process.
   There are more things to do after you log in.
