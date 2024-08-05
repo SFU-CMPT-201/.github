@@ -274,3 +274,5 @@ Exams from Fall 2023 are available for reference.
 * Enter `./start_here.sh` and read through. It will show you what to do.
 * When you want to stop using the container, enter `exit`.
 * When you want to use the container again, enter the start command (`docker start -ai cmpt201`).
+* Make sure you do not delete the container (e.g., `docker rm`). You will lose all the files, i.e.,
+  your work.
