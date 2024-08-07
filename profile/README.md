@@ -176,14 +176,14 @@ Below are the short assignments, provided for your reference. Each offering of C
 private repos for these assignments and instructions may vary slightly. Please do not use these
 assignment as-is.
 
-* [A0: Basics of the Command-Line Interface](https://github.com/SFU-CMPT-201/a0)
-* [A1: Neovim](https://github.com/SFU-CMPT-201/a1)
-* [A2: Bash Scripting](https://github.com/SFU-CMPT-201/a2)
-* [A3: Basics of Compilation](https://github.com/SFU-CMPT-201/a3)
-* [A4: Make and CMake](https://github.com/SFU-CMPT-201/a4)
-* [A5: Debugging Tools](https://github.com/SFU-CMPT-201/a5)
-* [A6: Memory Layout](https://github.com/SFU-CMPT-201/a6)
-* [A7: More on Memory Layout, Data Types, and Alignment](https://github.com/SFU-CMPT-201/a7)
+* [A0: Basics of the Command-Line Interface](https://github.com/SFU-CMPT-201/a0-pub)
+* [A1: Neovim](https://github.com/SFU-CMPT-201/a1-pub)
+* [A2: Bash Scripting](https://github.com/SFU-CMPT-201/a2-pub)
+* [A3: Basics of Compilation](https://github.com/SFU-CMPT-201/a3-pub)
+* [A4: Make and CMake](https://github.com/SFU-CMPT-201/a4-pub)
+* [A5: Debugging Tools](https://github.com/SFU-CMPT-201/a5-pub)
+* [A6: Memory Layout](https://github.com/SFU-CMPT-201/a6-pub)
+* [A7: More on Memory Layout, Data Types, and Alignment](https://github.com/SFU-CMPT-201/a7-pub)
 
 ### Long Assignments
 
@@ -205,11 +205,11 @@ Below are the long assignments, provided for your reference. Each offering of CM
 private repos for these assignments and instructions may vary slightly. Please do not use these
 assignments as-is.
 
-* [A8: Simple Shell](https://github.com/SFU-CMPT-201/a8)
-* [A9: Memory Management](https://github.com/SFU-CMPT-201/a9)
-* [A10: Simple MapReduce](https://github.com/SFU-CMPT-201/a10)
-* [A11: A Simple Group Chat Server with Fuzzing Clients](https://github.com/SFU-CMPT-201/a11)
-* [A12: Simple Blockchain](https://github.com/SFU-CMPT-201/a12)
+* [A8: Simple Shell](https://github.com/SFU-CMPT-201/a8-pub)
+* [A9: Memory Management](https://github.com/SFU-CMPT-201/a9-pub)
+* [A10: Simple MapReduce](https://github.com/SFU-CMPT-201/a10-pub)
+* [A11: A Simple Group Chat Server with Fuzzing Clients](https://github.com/SFU-CMPT-201/a11-pub)
+* [A12: Simple Blockchain](https://github.com/SFU-CMPT-201/a12-pub)
 
 ## Exam Samples
 
