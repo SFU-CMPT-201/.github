@@ -159,7 +159,14 @@ notes. The schedule generally looks as follows.
 
 ## Assignments
 
-There are two types of assignments in this course.
+There are two types of assignments in this course---short assignments and long assignments. Short
+assignments are designed to be straightforward and tutorial-like, while long assignments require a
+significant time investment. The difficulty level of long assignments is **substantially** higher
+than that of short assignments.
+
+Students should consider these assignments **take-home exams** rather than traditional homework.
+This is because we require students to complete them in a highly-controlled environment using our
+[Docker setup](#docker-container-setup). Modifying the environment is **not** allowed.
 
 ### Short Assignments
 
@@ -241,6 +248,8 @@ Exams from Fall 2023 are available for reference.
 ## Docker Container Setup
 
 * You will use a Docker container for everything in this course.
+* You are **not** allowed to modify this setup in any way. **Doing so is considered an academic
+  integrity violation.**
 * Setting up the Docker container will take some time, e.g., a few hours, and it is necessary for
   the first assignment, which will take another few hours. So make sure you start this right away.
   Downloading and running the container (as described below) is not the end of the setup process.
