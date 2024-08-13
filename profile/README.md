@@ -170,7 +170,7 @@ This is because we require students to complete them in a highly-controlled envi
 
 ### Short Assignments
 
-The first type is short assignments.
+The first type of assignments in this course is short assignments.
 
 * In the first few weeks of the course, students are expected to finish *two* short assignments per
   week.
@@ -194,7 +194,7 @@ assignment as-is.
 
 ### Long Assignments
 
-The second type is long assignments.
+The second type of assignments in this course is long assignments.
 
 * Long assignments are *exponentially* more challenging than short ones, specifically designed to
   push students to test and enhance their programming skills.
