@@ -166,7 +166,8 @@ than that of short assignments.
 
 Students should consider these assignments **take-home exams** rather than traditional homework.
 This is because we require students to complete them in a highly-controlled environment using our
-[Docker setup](#docker-container-setup). Modifying the environment is **not** allowed.
+[Docker setup](#docker-container-setup). Modifying the environment is **not** allowed and considered
+a violation of academic integrity.
 
 ### Short Assignments
 
@@ -254,9 +255,14 @@ Exams from Fall 2023 are available for reference.
   the first assignment, which will take another few hours. So make sure you start this right away.
   Downloading and running the container (as described below) is not the end of the setup process.
   There are more things to do after you log in.
-* First, install [Docker](https://docs.docker.com/desktop/). Choose the correct version for your
-  platform. Once you install it, start it. You can run it in the background as you don't need the
-  GUI.
+* First, install [Docker Desktop](https://docs.docker.com/desktop/). Choose the correct version for
+  your platform. Once you install it, start it. You can run it in the background as you don't need
+  the GUI.
+    * On Linux, it may be simpler to just install [Docker Engine](https://docs.docker.com/engine/)
+      instead of Docker Desktop. It is lighter weight than Docker Desktop. If you decide to do it,
+      after installation, you should also follow the instructions on [Manage Docker as a non-root
+      user](https://docs.docker.com/engine/install/linux-postinstall/#manage-docker-as-a-non-root-user).
+      This way, you can avoid using `sudo` to use Docker.
 * Next, make sure you have a good terminal emulator installed. For Windows, install [Windows
   Terminal](https://apps.microsoft.com/store/detail/windows-terminal/9N0DX20HK701). For Mac, install
   [iTerm2](https://iterm2.com/). Do not use the default Terminal app since it's not going to display
@@ -276,8 +282,13 @@ Exams from Fall 2023 are available for reference.
     * `docker create -it --name cmpt201 ghcr.io/sfu-cmpt-201/base`
         * This command downloads our container image (`ghcr.io/sfu-cmpt-201/base`) and creates an
           interactive (`-it`) container named `cmpt201`.
+        * Note that you only need to execute this once as you don't need to create an image multiple
+          times.
     * `docker start -ai cmpt201`
         * This command starts the container interactively (`-ai`) and let you enter the container.
+    * Once again, from now on, you *do not* need to create a container image. You only need to do it
+      once. After that, you just need to start the created container. In other words, you only need
+      to execute `docker start -ai cmpt201`.
 * At this point, you should see a greeting message and a command-line prompt (`~❯`).
 * If you enter `ls`, you should see two files (`start_here.sh` and `units`).
 * Enter `./start_here.sh` and read through. It will show you what to do.
