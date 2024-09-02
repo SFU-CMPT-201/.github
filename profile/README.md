@@ -181,8 +181,9 @@ The first type of assignments in this course is short assignments.
 * Unlike long assignments, short assignments are designed to be straightforward.
 
 Below are the short assignments, provided for your reference. Each offering of CMPT 201 has its own
-private repos for these assignments and instructions may vary slightly. Please do not use these
-assignment as-is.
+private repos for these assignments and instructions may vary slightly. Therefore, if you are taking
+CMPT 201, please make sure you use the correct repos corresponding to your term instead of the
+repos below.
 
 * [A0: Basics of the Command-Line Interface](https://github.com/SFU-CMPT-201/a0-pub)
 * [A1: Neovim](https://github.com/SFU-CMPT-201/a1-pub)
@@ -210,8 +211,9 @@ The second type of assignments in this course is long assignments.
   fostering self-reliance and problem-solving skills.
 
 Below are the long assignments, provided for your reference. Each offering of CMPT 201 has its own
-private repos for these assignments and instructions may vary slightly. Please do not use these
-assignments as-is.
+private repos for these assignments and instructions may vary slightly. Therefore, if you are taking
+CMPT 201, please make sure you use the correct repos corresponding to your term instead of the repos
+below.
 
 * [A8: Simple Shell](https://github.com/SFU-CMPT-201/a8-pub)
 * [A9: Memory Management](https://github.com/SFU-CMPT-201/a9-pub)
@@ -288,10 +290,9 @@ Exams from Fall 2023 are available for reference.
           match. Don't worry about it. Our Docker image is for `amd64` but ARM laptops can still run
           it without any issues.
     * `docker start -ai cmpt201`
-        * This command starts the container interactively (`-ai`) and let you enter the container.
-    * Once again, from now on, you *do not* need to create a container image. You only need to do it
-      once. After that, you just need to start the created container. In other words, you only need
-      to execute `docker start -ai cmpt201`.
+        * This command starts the container interactively (`-ai`) and lets you enter the container.
+    * Once again, from now on, you *do not* need to create a container image. You only need to start
+      the created container. In other words, you only need to execute `docker start -ai cmpt201`.
 * At this point, you should see a greeting message and a command-line prompt (`~❯`).
 * If you enter `ls`, you should see two files (`start_here.sh` and `units`).
 * Enter `./start_here.sh` and read through. It will show you what to do.
