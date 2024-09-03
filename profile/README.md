@@ -225,8 +225,8 @@ below.
 
 Exams from Fall 2023 are available for reference.
 
-* [Midterm](res/midterm.pdf)
-* [Final](res/final.pdf)
+* [Midterm](../res/midterm.pdf)
+* [Final](../res/final.pdf)
 
 ## Grading Policies
 
