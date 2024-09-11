@@ -258,8 +258,8 @@ Exams from Fall 2023 are available for reference.
   Downloading and running the container (as described below) is not the end of the setup process.
   There are more things to do after you log in.
 * First, install [Docker Desktop](https://docs.docker.com/desktop/). Choose the correct version for
-  your platform. Once you install it, start it. You can run it in the background as you don't need
-  the GUI.
+  your platform. If you already have Docker installed, make sure you have the latest version. Once
+  you install it, start it. You can run it in the background as you don't need the GUI.
     * On Linux, it may be simpler to just install [Docker Engine](https://docs.docker.com/engine/)
       instead of Docker Desktop. It is lighter weight than Docker Desktop. If you decide to do it,
       after installation, you should also follow the instructions on [Manage Docker as a non-root
