@@ -32,6 +32,14 @@ Prerequisites are:
     * Knowing C++ is better but not enough. C is still different from C++.
     * A very basic test is asking yourself, "Can I write a doubly-linked list in C without getting
       any help (with all the features, creating/appending/deleting a node and traversing the list)?"
+    * The following seem to be good resources to learn C.
+        * [C for Python programmers](https://diveintosystems.org/book/C1-C_intro/index.html): I
+          think this can serve as a general intro to C, not just for Python programmers but any
+          programmers.
+        * [C for Java
+          programmers](https://www.cs.rochester.edu/u/ferguson/csc/c/c-for-java-programmers.pdf)
+        * [Here's another one](https://github.com/jflaherty/ptrtut13/blob/master/md/pointers.md)
+          that talks about pointers and strings, which might be helpful:
 * Experience in using the command-line interface on Linux
     * We do not expect students to have proficiency but *some* experience.
 
