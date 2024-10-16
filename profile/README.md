@@ -83,7 +83,7 @@ Upon completion of this course, students are expected to achieve proficiency in 
 ## Office Hours
 
 * Steve Ko: 10 am - 12 pm Mondays at TASC1 8019
-* Shishir Gopinath: 2:30 pm - 4:30 pm Tuesdays at ASB 9808
+* Shishir Gopinath: 2:30 pm - 4:30 pm Tuesdays at ASB 9812
 * Kimia Khabiri: 2:30 pm to 4:30 pm Wednesdays at ASB 9810
 * Mohammad Omidvar: 9:00 am - 11:00 am Thursdays at ASB 9812
 * Parsa Hoseininejad: 2:30 pm to 4:30 pm Fridays at ASB 9810
