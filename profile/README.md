@@ -274,9 +274,6 @@ Exams from Fall 2023 are available for reference.
           interactive (`-it`) container named `cmpt201`.
         * Note that you only need to execute this once as you don't need to create an image multiple
           times.
-        * If you're using an ARM laptop, you may get a warning that says that the platforms don't
-          match. Don't worry about it. Our Docker image is for `amd64` but ARM laptops can still run
-          it without any issues.
     * `docker start -ai cmpt201`
         * This command starts the container interactively (`-ai`) and lets you enter the container.
     * Once again, from now on, you *do not* need to create a container image. You only need to start
