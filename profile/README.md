@@ -39,7 +39,7 @@ Prerequisites are:
         * [C for Java
           programmers](https://www.cs.rochester.edu/u/ferguson/csc/c/c-for-java-programmers.pdf)
         * [Here's another one](https://github.com/jflaherty/ptrtut13/blob/master/md/pointers.md)
-          that talks about pointers and strings, which might be helpful:
+          that talks about pointers and strings, which might be helpful.
 * Experience in using the command-line interface on Linux
     * We do not expect students to have proficiency but *some* experience.
 
